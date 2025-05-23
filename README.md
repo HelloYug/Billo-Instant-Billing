@@ -1,4 +1,4 @@
-# BillO - Instant Billing System
+# 💸 BillO - Instant Billing System
 *A complete retail management solution with Telegram bot interface*
 
 
